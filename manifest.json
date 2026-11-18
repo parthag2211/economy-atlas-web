@@ -1,0 +1,14 @@
+{
+  "format": "economy-atlas-encrypted",
+  "version": 1,
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 310000,
+  "salt": "e4pf_ZNgrAYw4q-IVyE8EQ",
+  "iv": "h5gY-AJFsos9ObJ2",
+  "tagLength": 128,
+  "compression": "gzip",
+  "payload": "atlas.enc",
+  "ciphertextSha256": "0ab545e3d509662c1b72f0ebcd5a920128e53533dca435c80be7bfd2359ff07a",
+  "createdAt": "2026-11-18T01:50:52.670Z"
+}
